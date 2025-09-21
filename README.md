@@ -98,7 +98,7 @@ distributed-log-analyzer/
 │   └── run_server.sh
 │
 ├── requirements.txt         # Python dependencies
-└── README.md                # Project documentation
+└── README.md                # Project documentation 
 
 
 ---
