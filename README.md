@@ -69,6 +69,7 @@ This system collects logs from multiple Linux nodes, centralizes them in a serve
 
 ### Project Structure
 
+```
 distributed-log-analyzer/
 │
 ├── agent/                   # Client agent (Linux)
@@ -95,7 +96,7 @@ distributed-log-analyzer/
 │
 ├── requirements.txt         # Python dependencies
 └── README.md                # Project documentation
-
+```
 
 ---
 
