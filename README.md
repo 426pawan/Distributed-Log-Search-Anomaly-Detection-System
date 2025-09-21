@@ -89,16 +89,12 @@ distributed-log-analyzer/
 │   ├── detect_realtime.py   # Test real-time anomaly detection
 │   └── models/              # Saved model & vectorizer
 │
-├── dashboard/               # Dashboard & API (Phase 4)
-│   ├── app.py
-│   └── static/              # HTML/CSS/JS or React files
-│
 ├── scripts/                 # Utility scripts
 │   ├── run_agent.sh
 │   └── run_server.sh
 │
 ├── requirements.txt         # Python dependencies
-└── README.md                # Project documentation 
+└── README.md                # Project documentation
 
 
 ---
